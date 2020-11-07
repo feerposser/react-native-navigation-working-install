@@ -1,0 +1,8 @@
+yarn add react-navigation
+yarn add react-navigation-stack
+yarn add react-native-gesture-handler
+npm install --save @react-native-community/masked-view
+npm install --save react-native-safe-area-context
+npm install
+npm audit fix
+yarn add react-native-screens
